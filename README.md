@@ -79,6 +79,6 @@ O modelo é iluminado por três fontes principais de luz:
 
 ## Modelo Escolhido
 
-![Modelo Lunar](https://sketchfab.com/3d-models/ksp-bluedog-design-bureau-apollo-command-module-2fd88cd382704842961260e0d31c8188)
+![Modelo Lunar](https://skfb.ly/oWUZu)
 
 ---
