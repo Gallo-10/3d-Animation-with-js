@@ -75,6 +75,6 @@ O modelo é iluminado por três fontes principais de luz:
 
 ## Modelo Escolhido
 
-![](https://skfb.ly/oWUZu)
+![Modelo](https://skfb.ly/oWUZu)
 
 ---
