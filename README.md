@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de um README para o seu projeto que inclui todos os critérios que você mencionou. Você pode personalizar o espaço para a imagem do modelo com a imagem desejada.
-
----
-
 # Projeto de Animação 3D
 
 ## Descrição
@@ -79,6 +75,6 @@ O modelo é iluminado por três fontes principais de luz:
 
 ## Modelo Escolhido
 
-![Modelo Lunar](https://skfb.ly/oWUZu)
+![](https://skfb.ly/oWUZu)
 
 ---
